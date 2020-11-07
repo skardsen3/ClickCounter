@@ -1,5 +1,5 @@
 # ClickerCounter
-Records the number of clicks made by a user 
+Records the number of clicks made by a user and saves it to a CSV.
 
 This is a simple mouse click recorder that records and number of left and right clicks made by a user and saves it to a CSV along with the process at that time that was using the most memory.
 
